@@ -1,0 +1,9 @@
+{
+    "name": "alphabraga/fila",
+    "type": "project",
+    "require": {
+        "mjphaynes/php-resque": "2.1.*"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
